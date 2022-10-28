@@ -39,7 +39,7 @@ with st.sidebar:
                           icons=['activity','heart','person','diamond','wind'],
                           
                             default_index=0
-                            orientation="horizontal",
+                            ,
     styles={
                 "container": {"padding": "0!important", "background-color": "#fafafa"},
                 "icon": {"color": "red", "font-size": "18px"},
